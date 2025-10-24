@@ -1,0 +1,21 @@
+body {
+  background-color: #fdfcf7;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body {
+  background-color: #f8f9fa;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
